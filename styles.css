@@ -1,0 +1,36 @@
+/* add your CSS here */
+.container{
+  padding: 5px;
+  border-style: solid;
+  border-width: thin;
+  border-color: gray;
+  box-shadow: 5px 5px 5px lightgrey;
+  width: 300px;
+  background-color: #ffffe1
+}
+
+.animal-information{
+  padding: 1px 4px;
+  width: 290px;
+  border-style: solid;
+  border-width: thin;
+  border-color: gray;
+}
+
+img{
+  padding-bottom: 2px;
+  width: 300px;
+}
+
+.italicize{
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li > span{
+  font-weight: bold;
+}
